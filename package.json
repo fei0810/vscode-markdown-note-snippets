@@ -1,0 +1,20 @@
+{
+    "name": "betternotesnippets",
+    "displayName": "Markdown Note Snippets",
+    "description": "Markdown snippets to take better notes.",
+    "icon": "./image/mnbicon.ing",
+    "version": "0.0.3",
+    "publisher": "biotrainee-zhaofei",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+            "language": "markdown",
+            "path": "./snippets/snippets.json"
+        }]
+    }
+}

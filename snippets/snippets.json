@@ -1,0 +1,105 @@
+{
+    "paper intensive reading note": {
+        "prefix": "intensive_reading",
+        "body": [
+            "# 文献精读$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "",
+            "## 文献信息",
+            "",
+            "**标题：$1**",
+            "",
+            "**DOI(url):**$2",
+            "",
+            "**发表日期：**$3",
+            "",
+            "**发表杂志：**$4",
+            "",
+            "**关键词：**$5",
+            "",
+            "## 文献概述",
+            "",
+            "## 文献笔记",
+            "",
+            "### 文章亮点",
+            "",
+            "### 和我相关",
+            "",
+            "### 我的疑问",
+            "",
+            "## 相关文献"
+        ],
+        "description": "paper intensive reading note markdown template"
+    },
+    "paper extensive reading note": {
+        "prefix": "extensive_reading",
+        "body": [
+            "## 文献题目：$1",
+            "",
+            "**DOI(url):** $2",
+            "",
+            "**发表日期：**$3",
+            "",
+            "### 关键点",
+            "",
+            "### 参考意义",
+            "",
+            "### 相关内容"
+        ],
+        "description": "paper extensive reading note markdown template"
+    },
+    "KPT daily work note": {
+        "prefix": "kpt_daily",
+        "body": [
+            "## KPT $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "",
+            "### Keep 今日执行任务",
+            "1. $1",
+            "2. $2",
+            "",
+            "### Problem 今日所遇问题",
+            "1. $3",
+            "2. $4",
+            "",
+            "### Try 明日解决方案",
+            "1. $5",
+            "2. $6"
+        ],
+        "description": "KPT daily work note markdown template"
+    },
+    "Debug learning note": {
+        "prefix": "debug_note",
+        "body": [
+            "## Debug $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "",
+            "### 报错信息",
+            "",
+            "```",
+            "$1",
+            "```",
+            "",
+            "### 猜猜原因",
+            "",
+            "### 我的尝试",
+            "",
+            "### 参考资料",
+            "",
+            "### 解决方案",
+            ""
+        ],
+        "description": "Debug learning note markdown template"
+    },
+    "idea pills": {
+        "prefix": "idea_pills",
+        "body": [
+            "## idea pills $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "",
+            "### 话题：$1",
+            "",
+            "### 灵感来源",
+            "",
+            "### 写作思路",
+            ""
+        ],
+        "description": "Writing material note markdown template"
+    }
+}
