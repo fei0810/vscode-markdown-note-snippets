@@ -21,3 +21,10 @@
 - KPT daily work note markdown template
 - Debug learning note markdown template
 - Writing material note markdown template
+
+## [0.0.4] - 2020-04-17
+
+### Added
+
+- Extension icon
+- source code submission to GitHub

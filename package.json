@@ -3,7 +3,7 @@
     "displayName": "Markdown Note Snippets",
     "description": "Markdown snippets to take better notes.",
     "icon": "./image/mnbicon.ing",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "biotrainee-zhaofei",
     "engines": {
         "vscode": "^1.37.0"
@@ -16,5 +16,10 @@
             "language": "markdown",
             "path": "./snippets/snippets.json"
         }]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fei0810/vscode-markdown-note-snippets.git"
+    },
+    "homepage": "https://github.com/fei0810/vscode-markdown-note-snippets"
 }
