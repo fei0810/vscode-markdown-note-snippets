@@ -101,5 +101,25 @@
             ""
         ],
         "description": "Writing material note markdown template"
+    },
+    "five minute journal": {
+        "prefix": "5min",
+        "body": [
+            "# $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "",
+            "## 令我感恩的三件事",
+            "> 意识到生命中美好的事，不以消极的心态开始一天。",
+            "",
+            "## 会使今天更美好的三件事",
+            "",
+            "## 今天我是谁？",
+            "> 身份影响目标，目标影响计划，计划影响行动。",
+            "",
+            "## 今天发生的三件美好的事",
+            "",
+            "## 怎么做会让今天更好",
+            "",
+            "## 其它备忘"
+        ]
     }
 }

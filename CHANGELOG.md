@@ -28,3 +28,9 @@
 
 - Extension icon
 - source code submission to GitHub
+
+## [0.0.5] - 2020-08-25
+
+### Added
+
+- Five Minute Journal markdown template
